@@ -1,0 +1,31 @@
+Class:
+1. DB
+__construct
+
+2. Expense
+- index
+- create
+- store
+- delete
+- edit
+
+3. Income
+- index
+- create
+- store
+- delete
+- edit
+
+4. Category
+- index
+- create
+- store
+- delete
+- edit
+
+5. Investments
+- index
+- create
+- store
+- delete
+- edit
